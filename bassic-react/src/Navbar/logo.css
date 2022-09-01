@@ -1,0 +1,25 @@
+.logo {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: auto;
+  height: 75px;
+  padding: 20px;
+  
+}
+.logo img {
+  height: 45px;
+  width: 45px;
+  background-color: azure;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+.logo h1{
+    position: relative;
+  font-weight: 700;
+  font-size: 20px;
+  display: flex;
+  color: white;
+  left: -20px;
+}
+

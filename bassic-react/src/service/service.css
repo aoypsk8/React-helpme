@@ -1,0 +1,171 @@
+.filter-service {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  width: 100%;
+  border-radius: 10px 10px 0px 0px;
+}
+.clickfilter-service {
+  margin: 0px 25px;
+  display: flex;
+  justify-content: space-between;
+}
+.clickfilter-service .icon {
+  cursor: pointer;
+  font-size: 25px;
+  margin-right: 15px;
+  color: #ef4438;
+}
+.clickfilter-service .text {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  color: #ef4438;
+}
+
+/*=====================togglefilter=============================*/
+/*=====================togglefilter=============================*/
+/*=====================togglefilter=============================*/
+.toggle-filter-service {
+  display: flex;
+  height: 370px;
+}
+.toggle-filter-service div {
+  position: relative;
+  height: 100%;
+  top: -10px;
+  margin: 0 100px 0px 35px;
+  padding: 0 50px 0 10px;
+}
+.toggle-filter-service div p {
+  position: absolute;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 140%;
+  color: #ef4438;
+}
+.toggle-filter-service div h5 {
+  font-style: normal;
+  font-weight: 600;
+  line-height: 140%;
+  color: #999999;
+  cursor: pointer;
+}
+.line-1 {
+  width: 100%;
+  border-bottom: 1px solid rgba(134, 134, 134, 0.171);
+}
+.toggle-filter-service div h5:hover {
+  color: black;
+  transition-duration: 0.5s;
+}
+/*=====================card=============================*/
+/*=====================card=============================*/
+/*=====================card=============================*/
+
+.container-card-service {
+  height: 1000px;
+  display: flex;
+  flex-wrap: wrap;
+  width: auto;
+  padding: 0px 55px;
+  margin-bottom: 30px;
+}
+.container-card-service-item {
+  margin-top: 10px;
+  height: 300px;
+  width: auto;
+  padding: 10px;
+}
+.card-service {
+  width: 200px;
+  height: 310px;
+  display: block;
+  box-sizing: border-box;
+  background: #ffffff;
+  border: 2px solid #f6eded;
+}
+/*.card-service:hover {
+  transform: scale(1.03);
+  transition-duration: 1.3s;
+  cursor: pointer;
+}*/
+.card-img-service {
+  height: 60%;
+  background-color: #ef4438;
+}
+.card-img-service img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.card-title-service {
+  color: #000;
+  padding-left: 5px;
+  position: relative;
+  top: -5%;
+}
+.card-title-service p {
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #000;
+}
+.card-user-service {
+  padding-left: 5px;
+  position: relative;
+  top: -10%;
+}
+.card-user-service p {
+  font-size: 13px;
+  color: #999999;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+}
+.card-star-service {
+  padding-left: 5px;
+  display: flex;
+  justify-content: row;
+  align-items: center;
+  position: relative;
+  top: -18%;
+}
+.card-star-service .icon {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  color: #e7b667;
+}
+.card-star-service .people-star-service {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: #999999;
+}
+.card-price-service {
+  padding-left: 5px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  top: -25%;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: #000;
+}
+.price-service {
+  margin-right: 10px;
+}
+
+.pagination{
+  list-style: none;
+}

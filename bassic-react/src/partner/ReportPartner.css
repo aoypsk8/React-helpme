@@ -1,0 +1,271 @@
+/*=====================H E A D E R=================================*/
+.header-report-partner1 {
+  display: flex;
+  margin: 10px;
+  width: auto;
+  height: 50%;
+}
+.header-report-partner1 .icon-report-partner1 {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  margin: 3px 8px;
+  font-size: 22px;
+  bottom: 95.87%;
+  color: #000000;
+}
+.header-report-partner1 .title-report-partner1 {
+  margin: 3px 8px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 45px;
+  color: #ef4438;
+}
+/*=====================BODY=================================*/
+.container-body-report-partner1 {
+  margin: 0px 50px;
+}
+.body-header-report-partner1 {
+  margin: 10px 0px 10px 60px;
+  height: 130px;
+  justify-content: space-between;
+  display: flex;
+}
+.title-header-report-partner1 {
+  display: flex;
+}
+.title-header-report-partner1 img {
+  width: 130px;
+  height: 130px;
+  border: 0.5px solid #e0e0e0;
+  border-radius: 78px;
+}
+.name-and-department-report-partner1 {
+  margin-left: 30px;
+}
+.name-and-department-report-partner1 .name-report-partner1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 45px;
+  color: #000000;
+}
+.name-and-department-report-partner1 .department-report-partner1 {
+  position: relative;
+  top: -10px;
+  font-weight: 400;
+  font-size: 14px;
+  color: #999;
+  line-height: 140%;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.body-body-report-partner1 {
+  margin: 0px 40px;
+  height: 530px;
+  border-bottom: 1px solid gray;
+}
+.input-title-report-partner1 {
+  height: 60px;
+  align-items: center;
+  margin: 20px;
+  display: flex;
+}
+.container-lable-report {
+  width: 150px;
+}
+.container-lable-report label {
+  font-style: normal;
+  font-weight: 550;
+  font-size: 20px;
+  line-height: 140%;
+  color: #000000;
+}
+.container-input-report {
+  width: 770px;
+  height: 50px;
+  background: #fafafb;
+  border: 1px solid #e1e1e1;
+  box-shadow: 0px 3.5px 5.5px rgba(0, 0, 0, 0.02);
+  border-radius: 15px;
+}
+.container-input-report input {
+  margin: 10px;
+  background: #fafafb;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+  color: #999999;
+  border: none;
+  outline: none;
+}
+.input-text-report-partner1 {
+  width: 765px;
+  height: 390px;
+  background: #fafafb;
+  border-radius: 15px;
+  margin-left: 170px;
+  margin-top: 25px;
+  border: none;
+  outline: none;
+}
+.input-text-report-partner1 textarea{
+  background: #fafafb;
+  border: 1px solid #e1e1e1;
+  box-shadow: 0px 3.5px 5.5px rgba(0, 0, 0, 0.02);
+  border-radius: 15px;
+  width: 765px;
+  height: 400px;
+  outline: none;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+  color: #999999;
+}
+
+
+/*=============footer================*/
+.body-footer-report-partner1{
+  margin-top: 40px;
+}
+.top-footer-report-partner1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.left-footer-report-partner1 {
+  display: flex;
+  align-items: center;
+}
+.left-footer-report-partner1 p {
+  margin-right: 30px;
+  font-style: normal;
+  font-weight: 500;
+  font-weight: 500;
+  font-size: 19px;
+  line-height: 150%;
+  text-align: center;
+  color: #000000;
+}
+.left-footer-report-partner1 .pp {
+  position: relative;
+  top: -15px;
+}
+.password-footer-report-partner1 {
+  box-sizing: border-box;
+  background: #fafafb;
+  border: 1px solid #e1e1e1;
+  box-shadow: 0px 3.5px 5.5px rgba(0, 0, 0, 0.02);
+  border-radius: 15px;
+  width: 137px;
+  height: 60px;
+}
+.password-footer-report-partner1 p {
+  justify-content: center;
+  display: flex;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 150%;
+  color: #999;
+}
+.right-footer-report-partner1 {
+  display: flex;
+  align-items: center;
+}
+.cancel-footer-report-partner1 {
+  cursor: pointer;
+  margin-right: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 160px;
+  height: 60px;
+  background: #fff;
+  border: 1px solid #999999;
+  box-shadow: 0px 3.5px 5.5px rgba(0, 0, 0, 0.02);
+  border-radius: 10px;
+}
+.cancel-footer-report-partner1 span {
+  margin-right: 10px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 140%;
+  color: #ef4438;
+}
+.cancel-footer-report-partner1 p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 140%;
+  color: #ef4438;
+}
+.cancel-footer-report-partner1:hover, .send-footer-report-partner1:hover{
+  transition-duration: 1.3s;
+  transform: scale(1.05);
+}
+.send-footer-report-partner1{
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 160px;
+  height: 60px;
+  background: #000000;
+  border: 1px solid #999999;
+  box-shadow: 0px 3.5px 5.5px rgba(0, 0, 0, 0.02);
+  border-radius: 10px;
+}
+.send-footer-report-partner1 span {
+  margin-right: 10px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 140%;
+  color: #3dd598;
+}
+.send-footer-report-partner1 p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 140%;
+  color: #3dd598;
+}
+.forget-password-report-partner1 {
+  position: relative;
+  top: -30px;
+  right: 190px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.forget-password-report-partner1 p {
+  cursor: pointer;
+  display: flex;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+  text-align: center;
+  color: #ef4438;
+}
+.forget-password-report-partner1 span {
+  cursor: pointer;
+  margin-left: 10px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 150%;
+  text-align: center;
+  color: #3dd598;
+}
+.back{
+  margin-left: 10px;
+  color: black;
+}
+

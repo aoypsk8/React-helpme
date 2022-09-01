@@ -1,0 +1,211 @@
+.menu {
+  background-color: rgb(255, 255, 255);
+  height: 90%;
+}
+.Web {
+  height: auto;
+  margin-bottom: 10px;
+}
+.web-title {
+  height: 20px;
+  font-size: 18px;
+  margin: 10px;
+}
+.sub-web {
+  display: flex;
+  margin: 0px 15px;
+  height: 40px;
+}
+.sub-web:hover {
+  background-color: rgba(140, 147, 153, 0.677);
+}
+.icon-web {
+  width: 50px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #000;
+}
+.web-menu {
+  width: 100%;
+  margin-left: 10px;
+  display: flex;
+  color: #000;
+  align-items: center;
+  font-size: 18px;
+}
+
+.General {
+  height: auto;
+  margin-bottom: 10px;
+}
+.general-title {
+  height: 20px;
+  font-size: 18px;
+  margin: 10px 10px 20px 10px;
+}
+.sub-general {
+  display: flex;
+  margin: 0px 15px;
+  height: 40px;
+}
+.sub-general:hover {
+  background-color: rgba(140, 147, 153, 0.677);
+
+}
+.icon-general {
+  width: 50px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #000;
+}
+.general-menu {
+  width: 100%;
+  margin-left: 10px;
+  display: flex;
+  color: #000;
+  align-items: center;
+  font-size: 18px;
+}
+
+.Manage-Booking {
+  height: auto;
+  margin-bottom: 10px;
+}
+.booking-title {
+  height: 20px;
+  font-size: 18px;
+  margin: 10px;
+}
+.sub-bookings {
+  display: flex;
+  margin: 0px 15px 5px 15px;
+  height: 40px;
+}
+.sub-bookings:hover {
+  background-color: rgba(140, 147, 153, 0.677);
+
+}
+.icon-bookings {
+  width: 50px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #000;
+}
+.bookings-menu {
+  width: 100%;
+  margin-left: 10px;
+  display: flex;
+  color: #000;
+  align-items: center;
+  font-size: 18px;
+}
+.sidebar-item-booking.open > .sidebar-content {
+  height: auto;
+}
+.sidebar-content {
+  height: 0;
+  overflow: hidden;
+}
+
+.sub-booking {
+  display: flex;
+  margin: 0px 15px 5px 35px;
+  height: 40px;
+}
+.icon-booking {
+  width: 40px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #000;
+}
+.booking-menu {
+  width: 100%;
+  display: flex;
+  color: #000;
+  align-items: center;
+  font-size: 15px;
+}
+.sub-booking:hover {
+  background-color: rgba(96, 98, 96, 0.621);
+}
+
+.Unit {
+  height: auto;
+  margin-bottom: 10px;
+}
+.unit-title {
+  height: 20px;
+  font-size: 18px;
+  margin: 10px;
+}
+.sub-units {
+  display: flex;
+  margin: 0px 15px 5px 15px;
+  height: 40px;
+}
+.sub-units:hover {
+  background-color: rgba(140, 147, 153, 0.677);
+
+}
+.icon-units {
+  width: 50px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #000;
+}
+.units-menu {
+  width: 100%;
+  margin-left: 10px;
+  display: flex;
+  color: #000;
+  align-items: center;
+  font-size: 18px;
+}
+
+.sub-unit {
+  display: flex;
+  margin: 0px 15px 5px 35px;
+  height: 40px;
+}
+.icon-unit {
+  width: 40px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #000;
+}
+.unit-menu {
+  width: 100%;
+  display: flex;
+  color: #000;
+  align-items: center;
+  font-size: 15px;
+}
+.sub-unit:hover {
+  background-color: rgba(96, 98, 96, 0.621);
+}
+
+.sidebar-content {
+  height: 0;
+  overflow: hidden;
+}
+.sidebar-item-unit.open > .sidebar-content {
+  height: auto;
+}
+
+.sub-unit {
+  display: flex;
+  margin: 0px 40px 5px 40px;
+  height: 40px;
+}

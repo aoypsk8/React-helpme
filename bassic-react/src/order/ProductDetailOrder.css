@@ -1,0 +1,122 @@
+.header-product-detail-order {
+  display: flex;
+  margin: 10px;
+  width: auto;
+  height: 50%;
+}
+.header-product-detail-order .icon-order {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  margin: 3px 8px;
+  font-size: 22px;
+  bottom: 95.87%;
+  color: #000000;
+}
+.header-product-detail-order .title-order {
+  margin: 3px 8px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 45px;
+  color: #ef4438;
+}
+.body-product-detail-order {
+
+  padding: 0px 110px;
+  margin: 0px 50px;
+  width: auto;
+  height: 1000px;
+  width: 900px;
+}
+.item-product-detail-order {
+  display: flex;
+}
+.content-left-product-detail-order {
+  padding: 20px 0px;
+  margin-right: 20px;
+  width: 400px;
+  height: 300px;
+}
+.content-left-product-detail-order img {
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+  border: 1px solid #e1e1e1;
+}
+.content-right-product-detail-order {
+  height: 350px;
+}
+.content-right-product-detail-order h2 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 45px;
+  color: #000000;
+}
+.content-right-product-detail-order .star-order {
+  color: #ffc978;
+  bottom: 79.88%;
+  display: flex;
+  align-items: center;
+}
+.content-right-product-detail-order .price-product-detail-order {
+  display: flex;
+}
+.content-right-product-detail-order .price-product-detail-order p {
+  padding-right: 20px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+}
+.content-right-product-detail-order .user-star-order {
+  color: #999;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+}
+.list-image-product-detail-order {
+  display: flex;
+  margin-top: 20px;
+
+  width: 460;
+  height: 140px;
+}
+.list-image-product-detail-order img {
+  background-color: #fbfbfc;
+  margin: 25px 20px 0px 0px;
+  width: 150px;
+  height: 115px;
+  border: 1px solid #e1e1e1;
+}
+.text-product-detail-order {
+  display: block;
+}
+.text-product-detail-order .service-provider-order {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.text-product-detail-order h2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 140%;
+  color: #000000;
+}
+.text-product-detail-order p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+  color: #000000;
+}
+.text-product-detail-order .service-type-order,
+.service-detail-order,
+.scope-service-order {
+  display: flex;
+  justify-content: space-between;
+}

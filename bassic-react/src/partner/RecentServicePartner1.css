@@ -1,0 +1,231 @@
+/*=====================H E A D E R=================================*/
+.header-recentservice-partner1 {
+  display: flex;
+  margin: 10px;
+  width: auto;
+  height: 50%;
+}
+.header-recentservice-partner1 .icon-recentservice-partner1 {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  margin: 3px 8px;
+  font-size: 22px;
+  bottom: 95.87%;
+  color: #000000;
+}
+.header-recentservice-partner1 .title-recentservice-partner1 {
+  margin: 3px 8px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 45px;
+  color: #ef4438;
+}
+/*=====================B O D Y=================================*/
+.body-recentservice-partner1{
+  border-bottom: 1px solid #E2E8F0;
+  margin: 10px 115px 10px 115px;
+  height: 200px;
+}
+.body-header-recentservice-partner1 {
+  
+  justify-content: space-between;
+  display: flex;
+}
+.title-header-recentservice-partner1 {
+  display: flex;
+}
+.title-header-recentservice-partner1 img {
+  background-color: #ef4438;
+  width: 130px;
+  height: 130px;
+  border: 0.5px solid #e0e0e0;
+  border-radius: 78px;
+}
+.name-and-department-recentservice-partner1 {
+  margin-left: 30px;
+}
+.name-and-department-recentservice-partner1 .name-recentservice-partner1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 45px;
+  color: #000000;
+}
+.name-and-department-recentservice-partner1 .department-recentservice-partner1 {
+  position: relative;
+  top: -20px;
+  font-weight: 400;
+  font-size: 14px;
+  color: #999;
+  line-height: 140%;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.all-order-recentservice-partner1 {
+  position: relative;
+  top: -15px;
+  display: flex;
+  width: 650px;
+  justify-content: space-between;
+}
+.all-order-recentservice-partner1 p {
+  margin-right: 100px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 22px;
+  color: #000000;
+}
+.all-order-recentservice-partner1 .all-service , .all-order{
+  width: 250px;
+}
+.all-order-recentservice-partner1 .all-service span , .all-order span{
+  position: relative;
+  left: 100px;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  color: #000000;
+}
+.now-order-recentservice-partner1{
+  position: relative;
+  top: -25px;
+  display: flex;
+  width: 650px;
+  justify-content: space-between;
+}
+.now-order-recentservice-partner1 p {
+  margin-right: 100px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 22px;
+  color: #000000;
+}
+.now-order-recentservice-partner1 .point-averate , .now-order{
+  width: 250px;
+}
+.now-order-recentservice-partner1 .point-averate span , .now-order span{
+  position: relative;
+  left: 100px;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  color: #000000;
+}
+/*================card card card card card=======================*/
+/*=====================card=============================*/
+/*=====================card=============================*/
+/*=====================card=============================*/
+.text-card-recentservice-partner1{
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 45px;
+color: #000000;
+}
+
+
+.container-card-recentservice-partner1{
+  display: flex;
+  flex-wrap: wrap;
+  height: 700px;
+  padding: 10px 0px 10px 15px;
+}
+.container-card-recent-partner1{
+  height: 800px;
+}
+
+.card-recentservice-partner1 {
+  width: 200px;
+  height: 310px;
+  margin: 17px 20px;
+  display: block;
+  box-sizing: border-box;
+  background: #ffffff;
+  border: 2px solid #f6eded;
+}
+.card-recentservice-partner1:hover {
+  cursor: pointer;
+}
+.card-img-recentservice-partner1{
+  height: 60%;
+  background-color: #ef4438;
+}
+.card-img-recentservice-partner1 img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.card-title-recentservice-partner1 {
+  color: #000;
+  padding-left: 5px;
+  position: relative;
+  top: -5%;
+  
+}
+.card-title-recentservice-partner1 p {
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #000;
+}
+.card-user-recentservice-partner1 {
+  padding-left: 5px;
+  position: relative;
+  top: -10%;
+}
+.card-user-recentservice-partner1 p {
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+
+  line-height: 140%;
+}
+.card-star-recentservice-partner1 {
+  padding-left: 5px;
+  display: flex;
+  justify-content: row;
+  align-items: center;
+  position: relative;
+  top: -18%;
+}
+.card-star-recentservice-partner1 .icon {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  color: #e7b667;
+}
+.card-price-recentservice-partner1 {
+  padding-left: 5px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  top: -25%;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: #000;
+}
+.price-recentservice-partner1{
+  margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+

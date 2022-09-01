@@ -1,0 +1,116 @@
+.item-employee{
+  height: 1000px;
+}
+.title-employee-item {
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid #e1e1e13f;
+}
+.title-employee-item p {
+  margin: 15px 110px;
+}
+.service-employee {
+  position: relative;
+  right: 65px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 150%;
+  color: #999999;
+}
+.contact-employee {
+  position: relative;
+  right: 15px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 150%;
+  color: #999999;
+}
+.address-employee {
+  position: relative;
+  right: -10px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 150%;
+  color: #999999;
+}
+.history-employee {
+  position: relative;
+  left: 70px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 150%;
+  color: #999999;
+}
+/*===========================================*/
+.active-payment {
+  border-bottom: 5px solid red;
+}
+.container-header-employee {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  width: 100%;
+  border-radius: 10px 10px 0px 0px;
+}
+.header-employee {
+  margin-left: 20px;
+  display: flex;
+  align-items: center;
+  height: 60px;
+  width: 65%;
+}
+.total-employee-left {
+  width: 35%;
+  height: 60px;
+  display: flex;
+  padding: 0px 20px;
+  align-items: center;
+  border-right: 1px solid rgba(0, 0, 0, 0.286);
+  cursor: pointer;
+}
+.total-employee-right {
+  width: 35%;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  padding: 0px 20px;
+  align-items: center;
+  cursor: pointer;
+}
+.icon-employee-left,
+.icon-employee-right {
+  color: #000000;
+  background-color: rgb(255, 2, 2);
+  border-radius: 10px;
+  width: 50px;
+  height: 50px;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content-header-employee-left div,
+.content-header-employee-right div {
+  margin: 1px 20px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 140%;
+  color: #000000;
+}
+/*====================================================*/
+
+.title-header-employee {
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid #e1e1e1;
+}
+.title-header-employee p {
+  margin: 15px;
+  color: #999;
+}

@@ -1,0 +1,83 @@
+.container-payment-item{
+  height: 1000px;
+}
+
+
+.container-item-payment {
+  height: 60px;
+  margin: 5px 0px;
+}
+
+.Item-payment {
+  position: relative;
+  border-bottom: 1px solid #e1e1e13f;
+  display: flex;
+  height: 60px;
+  justify-content: space-around;
+
+}
+
+.title-item-payment {
+  width: 200px;
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  right: -5px;
+}
+.title-item-payment .title-icon {
+  margin: 15px 10px 15px 0px;
+  width: 45px;
+  height: 45px;
+  background: #ef4438;
+  box-shadow: 0px 3.5px 5.5px rgba(0, 0, 0, 0.02);
+  border-radius: 12px;
+  font-size: 1.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  top: -10px;
+}
+.title-item-payment .title-icon p{
+  object-fit: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.P1 {
+  position: relative;
+  top: -10px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 140%;
+  color: #000000;
+}
+.P2 {
+  position: relative;
+  top: -25px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 140%;
+  color: #999999;
+}
+.payer-item-payment {
+  width: 200px;
+  position: relative;
+  right: -20px;
+}
+.receiver-item-payment {
+  width: 200px;
+  position: relative;
+  right: 15px;
+}
+.money-item-payment {
+  width: 150px;
+  position: relative;
+  right: 60px;
+}
+.time-item-payment {
+  position: relative;
+  right: 15px;
+}

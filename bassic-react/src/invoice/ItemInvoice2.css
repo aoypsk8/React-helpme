@@ -1,0 +1,131 @@
+.title-header-item-invoice2, .title-header-item-invoice {
+  border-bottom: 1px solid #e1e1e13f;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 150%;
+  color: #999999;
+}
+.container-item-invoice2 {
+  display: block;
+}
+
+.Item-invoice2 {
+  border-bottom: 1px solid #e1e1e13f;
+  display: flex;
+  justify-content: space-around;
+  height: 60px;
+  align-items: center;
+}
+.Item-invoice2:hover{
+  transform: scale(1.01);
+  transition-duration: 1.1s;
+  cursor: pointer;
+}
+.title-item-invoice2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  width: 250px;
+  position: relative;
+  right: 50px;
+}
+.title-item-invoice2 img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 45px;
+  height: 45px;
+  border: 0.2px solid #e0e0e0;
+  border-radius: 25px;
+  margin-right: 20px;
+}
+.title-item-invoice2 .user-item-invoice2 {
+  padding: 0px;
+  height: 60px;
+  width: 190px;
+  display: block;
+  position: relative;
+}
+.title-item-invoice2 .user-item-invoice2 p {
+  display: flex;
+}
+.name-user-item2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 140%;
+  color: #000000;
+  position: relative;
+  top: -10px;
+}
+.department-user-item2 {
+  position: relative;
+  top: -25px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 140%;
+  color: #999999;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.order-item-invoice2 {
+  width: 35px;
+  position: relative;
+  right: 65px;
+}
+.amount-order-item2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 140%;
+  color: #000000;
+  position: relative;
+  top: -10px;
+}
+.total-item-invoice2 {
+  width: 120px;
+  position: relative;
+  left: 60px;
+}
+.total-item2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 140%;
+  color: #000000;
+  position: relative;
+  top: -10px;
+}
+.content-item-invoice2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  width: 200px;
+  position: relative;
+  left: 50px;
+}
+.time-item-invoice2 {
+  position: relative;
+  left: 50px;
+  width: 100px;
+}
+.time-invoice2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 140%;
+  text-align: center;
+  color: #000000;
+}
+.date-invoice2 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 140%;
+  text-align: center;
+  color: #999999;
+}

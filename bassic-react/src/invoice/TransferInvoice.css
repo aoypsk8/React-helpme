@@ -1,0 +1,209 @@
+/*======================================================*/
+.body-transfer-invoice{
+  margin: 0px 50px;
+}
+.body-header-transfer-invoice{
+  margin: 10px 0px 10px 60px;
+  height: 130px;
+  justify-content: space-between;
+  display: flex;
+}
+.title-header-transfer-invoice{
+  display: flex;
+}
+.title-header-transfer-invoice img {
+  width: 130px;
+  height: 130px;
+  border: 0.5px solid #e0e0e0;
+  border-radius: 78px;
+}
+.name-and-department-transfer-invoice{
+  margin-left: 30px;
+}
+.name-and-department-transfer-invoice .name-transfer-invoice {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 45px;
+  color: #000000;
+}
+.name-and-department-transfer-invoice .department-transfer-invoice {
+  position: relative;
+  top: -10px;
+  font-weight: 400;
+  font-size: 14px;
+  color: #999;
+  line-height: 140%;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.edit-profile-transfer-invoice {
+  margin: 0px 200px;
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 45px;
+}
+.account-transfer-invoice {
+  margin: 15px 0px;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.768);
+  position: relative;
+  top: -10px;
+}
+.top-account-transfer-invoice {
+  display: flex;
+  justify-content: center;
+}
+.title-account-transfer-invoice {
+
+  position: relative;
+  right: 90px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 22px;
+  color: #000000;
+}
+.icon-account-transfer-invoice {
+  background-color: #3dd598;
+  border-radius: 50px;
+  margin-right: 25px;
+  width: 40px;
+  height: 40px;
+}
+.number-account-transfer-invoice {
+  
+  width: 320px;
+  height: 40px;
+  border-radius: 10px;
+}
+.number-account-transfer-invoice span {
+  position: relative;
+  top: 7px;
+  font-style: normal;
+  align-items: center;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 22px;
+  color: #000000;
+}
+.bottom-account-transfer-invoice {
+  display: flex;
+  justify-content: center;
+}
+.name-account-transfer-invoice {
+  position: relative;
+  right: 145px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 22px;
+  color: #000000;
+}
+.user-name-acctoun-transfer-invoice {
+  width: 300px;
+  position: relative;
+  left: 40px;
+  font-style: normal;
+  align-items: center;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 22px;
+  color: #000000;
+}
+
+/*=================.body-center========================*/
+.body-center-transfer-invoice {
+  position: relative;
+  top: 10px;
+}
+.amount-money-transfer-invoice {
+  display: flex;
+  justify-content: center;
+}
+.text-transfer-invoice {
+  position: relative;
+  right: 60px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 22px;
+  color: #000000;
+}
+.amount-transfer-invoice {
+  position: relative;
+  left: 75px;
+  width: 320px;
+  height: 40px;
+  border-radius: 10px;
+}
+.amount-transfer-invoice span {
+  position: relative;
+  top: 10px;
+  font-style: normal;
+  align-items: center;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 22px;
+  color: #000000;
+}
+.currency-transfer-invoice {
+  align-items: center;
+  display: flex;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 22px;
+  color: #000000;
+  position: relative;
+  left: -120px;
+}
+/*========================order============*/
+.order-account-transfer-invoice {
+  display: flex;
+  justify-content: center;
+}
+.order-transfer-invoice {
+  position: relative;
+  right: 230px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 22px;
+  color: #000000;
+}
+.amount-order-transfer-invoice {
+  width: 80px;
+  position: relative;
+  right: 95px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 22px;
+  color: #000000;
+}
+/*===========================time===========*/
+.times-account-transfer-invoice {
+  border-bottom: 1 solid rgba(128, 128, 128, 0.467);
+  display: flex;
+  justify-content: center;
+}
+.text-time-transfer-invoice{
+  position: relative;
+  right: 245px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 22px;
+  color: #000000;
+}
+.time-transfer-invoice {
+  width: 100px;
+  position: relative;
+  right: 60px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 22px;
+  color: #000000;
+}

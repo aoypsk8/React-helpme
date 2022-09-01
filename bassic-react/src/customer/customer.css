@@ -1,0 +1,56 @@
+
+  .container-header-invoice {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    width: 100%;
+    border-radius: 10px 10px 0px 0px;
+  }
+  .header-invoice {
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    height: 60px;
+    width: 65%;
+  }
+  .all-account-customer-left{
+    width: 35%;
+    height: 60px;
+    display: flex;
+    padding: 0px 20px;
+    align-items: center;
+    border-right: 1px solid rgba(0, 0, 0, 0.286);
+    cursor: pointer;
+  }
+
+  .closed-accound-right{
+    width: 35%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    padding: 0px 20px;
+    align-items: center;
+    cursor: pointer;
+  }
+  .icon-customer-left,
+  .icon-customer-right {
+    color: #000000;
+    background-color: rgb(255, 2, 2);
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .content-header-customer-left div,
+  .content-header-customer-right div {
+    margin: 1px 20px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 140%;
+    color: #000000;
+  }

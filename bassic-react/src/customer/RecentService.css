@@ -1,0 +1,201 @@
+
+/*=====================H E A D E R=================================*/
+.header-recentservice-customer {
+  display: flex;
+  margin: 10px;
+  width: auto;
+  height: 50%;
+}
+.header-recentservice-customer .icon-recentservice-customer {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  margin: 3px 8px;
+  font-size: 22px;
+  bottom: 95.87%;
+  color: #000000;
+}
+.header-recentservice-customer .title-recentservice-customer {
+  margin: 3px 8px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 45px;
+  color: #ef4438;
+}
+/*=====================B O D Y=================================*/
+.body-recentservice-customer{
+  margin: 10px 115px 0px 115px;
+  height: 1060px;
+}
+.body-header-recentservice-customer {
+  
+  justify-content: space-between;
+  display: flex;
+}
+.title-header-recentservice-customer {
+  display: flex;
+}
+.title-header-recentservice-customer img {
+  background-color: #ef4438;
+  width: 130px;
+  height: 130px;
+  border: 0.5px solid #e0e0e0;
+  border-radius: 78px;
+}
+.name-and-department-recentservice-customer {
+  margin-left: 30px;
+}
+.name-and-department-recentservice-customer .name-recentservice-customer {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 23px;
+  line-height: 45px;
+  color: #000000;
+}
+.name-and-department-recentservice-customer .department-recentservice-customer {
+  position: relative;
+  top: -20px;
+  font-weight: 400;
+  font-size: 14px;
+  color: #999;
+  line-height: 140%;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+.all-order-recentservice-customer {
+  position: relative;
+  top: -15px;
+  display: flex;
+}
+.all-order-recentservice-customer p {
+  margin-right: 100px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 22px;
+  color: #000000;
+}
+.coming-order-recentservice-customer{
+  display: flex;
+  position: relative;
+  top: -25px;
+}
+.coming-order-recentservice-customer p {
+  margin-right: 100px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 22px;
+  color: #000000;
+}
+/*================card card card card card=======================*/
+/*=====================card=============================*/
+/*=====================card=============================*/
+/*=====================card=============================*/
+.text-card-recents-service{
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 45px;
+color: #000000;
+}
+
+.container-card-recent-service-customer{
+  display: flex;
+  flex-wrap: wrap;
+  height: 700px;
+  padding: 10px 0px 10px 15px;
+}
+.container-card-recent-customer{
+  height: 800px;
+}
+.card-recent-service-customer {
+  width: 200px;
+  height: 310px;
+  margin: 17px 20px;
+  display: block;
+  box-sizing: border-box;
+  background: #ffffff;
+  border: 2px solid #f6eded;
+}
+
+.card-img-recent-service-customer {
+  height: 60%;
+  background-color: #ef4438;
+}
+.card-img-recent-service-customer img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+.card-title-recent-service-customer {
+  color: #000;
+  padding-left: 5px;
+  position: relative;
+  top: -5%;
+  
+}
+.card-title-recent-service-customer p {
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  font-size: 20px;
+  font-weight: bold;
+  color: #000;
+}
+.card-user-recent-service-customer {
+  padding-left: 5px;
+  position: relative;
+  top: -10%;
+}
+.card-user-recent-service-customer p {
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+
+  line-height: 140%;
+}
+.card-star-recent-service-customer {
+  padding-left: 5px;
+  display: flex;
+  justify-content: row;
+  align-items: center;
+  position: relative;
+  top: -18%;
+}
+.card-star-recent-service-customer .icon {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  color: #e7b667;
+}
+.card-price-recent-service-customer {
+  padding-left: 5px;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  top: -25%;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  color: #000;
+}
+.price-recent-service-customer {
+  margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+

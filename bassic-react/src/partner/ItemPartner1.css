@@ -1,0 +1,212 @@
+.title-header-partner1 {
+  border-bottom: 1px solid #e1e1e1;
+  display: flex;
+  padding: 15px 60px;
+}
+.title-header-partner1 .partner {
+  margin: 0px 100px 0px 50px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 150%;
+  color: #999999;
+}
+.title-header-partner1 .contact {
+  margin: 0px 100px 0px 150px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 150%;
+  color: #999999;
+}
+.title-header-partner1 .address {
+  margin: 0px 100px 0px 120px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 150%;
+  color: #999999;
+}
+
+.container-item-partner1 {
+  display: block;
+}
+
+.Item-partner1 {
+  padding-bottom: 5px;
+  border-bottom: 1px solid #e1e1e13f;
+  display: flex;
+  height: 60px;
+  align-items: center;
+}
+.Item-partner1:hover {
+  transform: scale(1.01);
+  transition-duration: 1.1s;
+  cursor: pointer;
+}
+.title-item-partner1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  width: 300px;
+  position: relative;
+  left: 20px;
+}
+.title-item-partner1 img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 45px;
+  height: 45px;
+  border: 0.2px solid #e0e0e0;
+  border-radius: 25px;
+  margin-right: 20px;
+}
+.title-item-partner1 .user-item-partner1 {
+  padding: 0px;
+  height: 60px;
+  width: 190px;
+  display: block;
+  position: relative;
+}
+.title-item-partner1 .user-item-partner1 p {
+  display: flex;
+}
+.name-user-item {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 140%;
+  color: #000000;
+  position: relative;
+  top: -10px;
+}
+.email-user-item {
+  position: relative;
+  top: -25px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 140%;
+  color: #999999;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+}
+
+.contact-item-partner1 {
+  width: 170px;
+  position: relative;
+  left: 110px;
+}
+.phone-item-partner1 {
+  width: 170px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 140%;
+  color: #000000;
+  position: relative;
+}
+.email-item-partner1 {
+  width: 170px;
+  position: relative;
+  top: -10px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 140%;
+  color: #999999;
+}
+
+.address-item-partner1 {
+  width: 150px;
+  position: relative;
+  left: 200px;
+}
+.province-item-partner1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 140%;
+  color: #000000;
+  position: relative;
+}
+.district-item-partner1 {
+    position: relative;
+    top: -10px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    color: #999999;
+}
+
+
+.content-item-partner1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  width: 200px;
+  position: relative;
+  left: 350px;
+}
+.content-item-partner1 .report-item {
+  margin: 10px;
+  border: 2px solid red;
+  background: #ffffff;
+  border: 1px solid #999999;
+  box-shadow: 0px 3.5px 5.5px rgba(0, 0, 0, 0.02);
+  border-radius: 10px;
+  width: 110px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40px;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 15px;
+  line-height: 140%;
+  color: #000000;
+}
+.content-item-partner1 .deactivate-item {
+  margin: 10px 20px 10px 10px;
+  border: 2px solid red;
+  background: #000;
+  color: #ffffff;
+  border: 1px solid #999999;
+  box-shadow: 0px 3.5px 5.5px rgba(0, 0, 0, 0.02);
+  border-radius: 10px;
+  width: 110px;
+  height: 40px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 140%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+.report-item:hover {
+  transform: scale(1.03);
+  transition-duration: 1.3s;
+  cursor: pointer;
+}
+.deactivate-item:hover {
+  transform: scale(1.03);
+  transition-duration: 1.3s;
+  cursor: pointer;
+}
+.icon-report-partner1 {
+  color: #000000;
+  font-size: 1.5rem;
+  margin-right: 5px;
+}
+
+.icon-deactivate-partner1 {
+  font-size: 1.5rem;
+  margin-right: 5px;
+  color: #EF4438;
+}
